@@ -14,4 +14,4 @@ Additional PyCO2SYS documentation is available at [PyCO2SYS.readthedocs.io](http
 
 ## Contributing
 
-If you've got a great example of using PyCO2SYS that you'd like to share we'd be very happy to add it here!  Just make a fork of this repo and push your additions back here directly into the *master* branch.  Please add a very brief summary of the example as a bullet point added to the list above.
+If you've got a great example of using PyCO2SYS that you'd like to share we'd love to add it here!  Just make a fork of this repo and push your additions back here directly into the *master* branch.  Please add a very brief summary of the example as a bullet point added to the list above.
