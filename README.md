@@ -8,5 +8,5 @@ Additional PyCO2SYS documentation is available at [PyCO2SYS.readthedocs.io](http
 
 A brief summary of the currently available examples:
 
-  * [CO2SYSExample1](CO2SYSExample1.ipynb): calculate the sensitivity of DIC to pH and *p*CO<sub>2</sub>.  *Based on the original MATLAB example script **CO2SYSExample1.m**.
-  * [CO2SYSExample2](CO2SYSExample2.ipynb): converting conditions and pH scales.  *Based on the original MATLAB example script **CO2SYSExample2.m**.
+  * [CO2SYSExample1](CO2SYSExample1.ipynb): calculate the sensitivity of DIC to pH and *p*CO<sub>2</sub>.  *Based on the original MATLAB example script **CO2SYSExample1.m**.*
+  * [CO2SYSExample2](CO2SYSExample2.ipynb): converting conditions and pH scales.  *Based on the original MATLAB example script **CO2SYSExample2.m**.*
