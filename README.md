@@ -8,11 +8,11 @@ Additional PyCO2SYS documentation is available at [PyCO2SYS.readthedocs.io](http
 
 ## Currently available examples
 
-  * [welcome-to-PyCO2SYS](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/blob/master/welcome-to-PyCO2SYS.ipynb): start here for a basic introduction to using PyCO2SYS to solve the marine carbonate system.
+  * [welcome-to-PyCO2SYS](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/blob/master/completed/welcome-to-PyCO2SYS.ipynb): start here for a basic introduction to using PyCO2SYS to solve the marine carbonate system.
 
-  * [CO2SYSExample1](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/blob/master/CO2SYSExample1.ipynb): calculate the sensitivity of DIC to pH and *p*CO<sub>2</sub>.  *Based on the original MATLAB example script **CO2SYSExample1.m**.*
+  * [CO2SYSExample1](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/blob/master/completed/CO2SYSExample1.ipynb): calculate the sensitivity of DIC to pH and *p*CO<sub>2</sub>.  *Based on the original MATLAB example script **CO2SYSExample1.m**.*
   
-  * [CO2SYSExample2](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/blob/master/CO2SYSExample2.ipynb): converting conditions and pH scales.  *Based on the original MATLAB example script **CO2SYSExample2.m**.*
+  * [CO2SYSExample2](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/blob/master/completed/CO2SYSExample2.ipynb): converting conditions and pH scales.  *Based on the original MATLAB example script **CO2SYSExample2.m**.*
 
 More are on their way!
 
