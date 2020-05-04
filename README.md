@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master)
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/)
 
-Here you can find various examples of how to use [PyCO2SYS](https://github.com/mvdh7/PyCO2SYS).  You can view the [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) files non-interactively here in the GitHub repo.  If you have installed Python and PyCO2SYS you could also clone or download this repo and run them locally.  Alternatively, you can try out the examples live in your web browser without needing to install anything at all through [Binder](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master).
+Here you can find various examples of how to use [PyCO2SYS](https://github.com/mvdh7/PyCO2SYS).  More are on their way!
 
 Additional PyCO2SYS documentation is available at [PyCO2SYS.readthedocs.io](https://pyco2sys.readthedocs.io).
 
@@ -11,19 +11,23 @@ Additional PyCO2SYS documentation is available at [PyCO2SYS.readthedocs.io](http
 
 To see each example, use the corresponding [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master) link to get interactive Python code in your browser, or [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/) to see a non-interactive view of the completed notebook.
 
-### welcome-to-PyCO2SYS [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=welcome-to-PyCO2SYS.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/welcome-to-PyCO2SYS.ipynb)
+### welcome-to-PyCO2SYS
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=welcome-to-PyCO2SYS.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/welcome-to-PyCO2SYS.ipynb)
 
 Start here for a basic introduction to using PyCO2SYS to solve the marine carbonate system with single values and arrays of values as inputs.
 
-### CO2SYSExample1 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=CO2SYSExample1.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/CO2SYSExample1.ipynb)
+### CO2SYSExample1
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=CO2SYSExample1.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/CO2SYSExample1.ipynb)
   
 Calculate the sensitivity of DIC to pH and *p*CO<sub>2</sub>.  *Based on the original MATLAB example script **CO2SYSExample1.m**.*
   
- ### CO2SYSExample2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=CO2SYSExample2.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/CO2SYSExample2.ipynb)
+ ### CO2SYSExample2
+ 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=CO2SYSExample2.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/CO2SYSExample2.ipynb)
  
 Converting conditions and pH scales.  *Based on the original MATLAB example script **CO2SYSExample2.m**.*
-
-More are on their way!
 
 ## Contributing
 
