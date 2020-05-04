@@ -9,16 +9,22 @@ Additional PyCO2SYS documentation is available at [PyCO2SYS.readthedocs.io](http
 
 ## Currently available examples
 
-To see each example, use the "live" link to get interactive Python code in your browser, or "static" to see a non-interactive view of the completed notebook.
+To see each example, use the corresponding [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master) link to get interactive Python code in your browser, or [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/) to see a non-interactive view of the completed notebook.
 
-  * **welcome-to-PyCO2SYS** ([live](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=welcome-to-PyCO2SYS.ipynb) / [static](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/blob/master/completed/welcome-to-PyCO2SYS.ipynb)): start here for a basic introduction to using PyCO2SYS to solve the marine carbonate system.
+### welcome-to-PyCO2SYS [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=welcome-to-PyCO2SYS.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/welcome-to-PyCO2SYS.ipynb)
 
-  * **CO2SYSExample1** ([live](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=CO2SYSExample1.ipynb) / [static](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/blob/master/completed/CO2SYSExample1.ipynb)): calculate the sensitivity of DIC to pH and *p*CO<sub>2</sub>.  *Based on the original MATLAB example script **CO2SYSExample1.m**.*
+Start here for a basic introduction to using PyCO2SYS to solve the marine carbonate system with single values and arrays of values as inputs.
+
+### CO2SYSExample1 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=CO2SYSExample1.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/CO2SYSExample1.ipynb)
   
-  * **CO2SYSExample2** ([live](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=CO2SYSExample2.ipynb) / [static](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/blob/master/completed/CO2SYSExample2.ipynb)): converting conditions and pH scales.  *Based on the original MATLAB example script **CO2SYSExample2.m**.*
+Calculate the sensitivity of DIC to pH and *p*CO<sub>2</sub>.  *Based on the original MATLAB example script **CO2SYSExample1.m**.*
+  
+ ### CO2SYSExample2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=CO2SYSExample2.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/CO2SYSExample2.ipynb)
+ 
+Converting conditions and pH scales.  *Based on the original MATLAB example script **CO2SYSExample2.m**.*
 
 More are on their way!
 
 ## Contributing
 
-If you've got an example of using PyCO2SYS that you'd like to share we'd love to add it here!  Just make a fork of this repo and push your additions back here directly into the *master* branch.  Please add a very brief summary of the example as a bullet point added to the list above.
+If you've got an example of using PyCO2SYS that you'd like to share we'd love to add it here!  Just make a fork of this repo and push your additions back here directly into the *master* branch.  Please add a very brief summary of the example to the list above.
