@@ -9,7 +9,7 @@ Additional PyCO2SYS documentation is available at [PyCO2SYS.readthedocs.io](http
 
 ## Currently available examples
 
-To see each example, use the corresponding [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master) link to get interactive Python code in your browser, or [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/) to see a non-interactive view of the completed notebook.
+To see each example, click the corresponding "launch binder" button to get interactive Python code in your browser, or the "render nbviewer" button to see a non-interactive view of the completed notebook.
 
 ### welcome-to-PyCO2SYS
 
