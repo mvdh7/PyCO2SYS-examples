@@ -29,6 +29,12 @@ Calculate the sensitivity of DIC to pH and *p*CO<sub>2</sub>.  *Based on the ori
  
 Converting conditions and pH scales.  *Based on the original MATLAB example script **CO2SYSExample2.m**.*
 
+### UncertaintyPropagation
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mvdh7/PyCO2SYS-examples/master?filepath=UncertaintyPropagation.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mvdh7/PyCO2SYS-examples/tree/master/completed/UncertaintyPropagation.ipynb)
+
+Propagate uncertainties with PyCO2SYS.
+
 ## Contributing
 
 If you've got an example of using PyCO2SYS that you'd like to share we'd love to add it here!  Just make a fork of this repo and push your additions back here directly into the *master* branch.  Please add a very brief summary of the example to the list above.
