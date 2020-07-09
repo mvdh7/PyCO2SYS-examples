@@ -1,2 +1,2 @@
-PyCO2SYS==1.4.1
+PyCO2SYS==1.4.2
 matplotlib==3
