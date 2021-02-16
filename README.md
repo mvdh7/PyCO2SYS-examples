@@ -5,7 +5,7 @@
 
 Here you can find various examples of how to use [PyCO2SYS](https://github.com/mvdh7/PyCO2SYS).  More are on their way!
 
-Additional PyCO2SYS documentation is available at [PyCO2SYS.readthedocs.io](https://pyco2sys.readthedocs.io).
+Additional PyCO2SYS documentation is available at [PyCO2SYS.readthedocs.io](https://pyco2sys.readthedocs.io/en/latest/).
 
 ## Currently available examples
 
