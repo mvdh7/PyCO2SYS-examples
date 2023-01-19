@@ -1,2 +1,2 @@
-PyCO2SYS==1.7.0.1
-matplotlib==3.4.2
+PyCO2SYS==1.8.2
+matplotlib>=3.4.2
